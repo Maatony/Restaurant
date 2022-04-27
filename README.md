@@ -16,6 +16,13 @@ Create a `Restaurant` management system that will help to waiters fulfill orders
   - `Price` is the same for the same `MealQuality`.
   - There are three types of meals: `Soup`, `MainDish` and `Dessert`. Each is separate class with default values for `Price` and `NutritionLevel`.
   - `MealQuality` is used for calculation of tip, it has grading from 1-5*, or 0-4. Default value is 3, it may be changed when the `Meal` is "created". Tip is evaluated as follows 0=0% .. 4=100%. Use Dictionary or Enumerator.
+```text
+	Poor,
+    Mediocre,
+    Average,
+    Good,
+    Excellent
+```text
   - `NutritionLevel` value determines how the customer will be filled up. Values are from 0-100.
   - Method `CalculateTip` returns tip based on average `MealQuality` times total `Price` for all meals.
 
