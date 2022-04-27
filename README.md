@@ -25,7 +25,7 @@ Create a `Restaurant` management system that will help to waiters fulfill orders
 	Excellent
 ```
   - `NutritionLevel` value determines how the customer will be filled up. Values are from 0-100.
-  - Method `CalculateTip` returns tip based on average `MealQuality` times total `Price` for all meals.
+  - Method `CalculateTip` returns tip based on `MealQuality` times `Price`. For example, if you get `Poor` food, then tip is 0, for `Excellent` food is tip 100%. Resulted tip is average of all meals. You can choose if tip is 10% of total amount or more.
 
 ## Restaurant
 - It manages all activities related to `Guest` and `Meal`. It has `GuestList` and `Cash`. Also methods `OrderMeal`, `OrderMenu`, `Pay` and `CloseBill`.
