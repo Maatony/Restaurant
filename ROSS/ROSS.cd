@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ROSS.Dessert">
+    <Position X="1.75" Y="4.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Dessert.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ROSS.Guest">
+    <Position X="6.25" Y="0.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIIAAEEEAAAAAAAAAABIAAAAIAgAAAAAAA=</HashCode>
+      <FileName>Guest.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ROSS.MainDish">
+    <Position X="6.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MainDish.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ROSS.Meal">
+    <Position X="3.75" Y="1.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>IQAAAAAAAQAAAAAAAAAAAAAAAAAAEAAAAAAQAAAAAAA=</HashCode>
+      <FileName>Meal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ROSS.Restaurant">
+    <Position X="8.75" Y="0.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAAQAAAgAAAAhAAAAAAAACAAAAAAAAgAAAABA=</HashCode>
+      <FileName>Restaurant.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ROSS.Soup">
+    <Position X="4" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Soup.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="ROSS.QualityOfFood">
+    <Position X="9.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAACAAAAAAAAAAAAAAAAAAAAIAAAAIAAAAAAAAAAE=</HashCode>
+      <FileName>QualityOfFood.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
