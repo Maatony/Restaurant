@@ -22,7 +22,7 @@ Create a `Restaurant` management system that will help to waiters fulfill orders
     Average,
     Good,
     Excellent
-```text
+```
   - `NutritionLevel` value determines how the customer will be filled up. Values are from 0-100.
   - Method `CalculateTip` returns tip based on average `MealQuality` times total `Price` for all meals.
 
